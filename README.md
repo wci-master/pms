@@ -70,7 +70,7 @@ You must have **XAMPP** (or any other AMP stack like WAMP or MAMP) installed on 
     git clone https://github.com/wci-master/pms.git C:\xampp\htdocs\pms
     ```
 
-    *(Replace `your-username` and `patient_system` as needed)*
+    *(Replace `your-username` and `pms_db` as needed)*
 
 2.  **Start XAMPP:** Open your XAMPP Control Panel and start the **Apache** and **MySQL** services.
 
